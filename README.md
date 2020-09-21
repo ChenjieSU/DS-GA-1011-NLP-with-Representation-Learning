@@ -1,1 +1,1 @@
-# DS-GA-1011-NLP-with-Representation-Learning-Resources
+# DS-GA-1011-NLP-with-Representation-Learning
